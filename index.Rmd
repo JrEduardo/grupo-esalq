@@ -54,31 +54,31 @@ GEMFR são apresentados abaixo.
 </style>
 
 <div class="myref">
-  <a href="http://staff.pubhealth.ku.dk/~pd/ISwR.html" target="_blank">
+  <a href="http://www.springer.com/gp/book/9780387953663" target="_blank">
     <img src="./images/book-deboor1978.png" width=150px>
   </a>
 </div>
 
 <div class="myref">
-  <a href="http://www.springer.com/la/book/9780387759357" target="_blank">
+  <a href="https://www.crcpress.com/Generalized-Additive-Models/Hastie-Tibshirani/p/book/9780412343902" target="_blank">
     <img src="./images/book-hastie1990.png" width=150px>
   </a>
 </div>
 
 <div class="myref">
-  <a href="https://www.nostarch.com/artofr.htm" target="_blank">
+  <a href="http://www.springer.com/de/book/9781475736830" target="_blank">
     <img src="./images/book-gu2002.png" width=150px>
   </a>
 </div>
 
 <div class="myref">
-  <a href="http://www.leg.ufpr.br/~paulojus/embrapa/Rembrapa/Rembrapa.pdf" target="_blank">
+  <a href="https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R-Second-Edition/Wood/p/book/9781498728331" target="_blank">
     <img src="./images/book-wood2006.png" width=150px>
   </a>
 </div>
 
 <div class="myref">
-  <a href="http://www.lepem.ufc.br/jaa/RparaCS.php" target="_blank">
+  <a href="https://www.crcpress.com/Smoothing-Splines-Methods-and-Applications/Wang/p/book/9781420077551" target="_blank">
     <img src="./images/book-wang2011.png" width=150px>
   </a>
 </div>
