@@ -1,0 +1,24 @@
+% Sobre o grupo
+
+Atualmente o grupo é composto por um professor do departamento de
+Ciências Exatas da ESALQ-USP e alunos do programa de pós-graduação em
+Estatística e experimentação agronômica. Somos em sete até o momento,
+mas abertos a quem tiver interesse e iniciativa para se juntar ao
+grupo. Uma breve introdução com áreas de pesquisa de cada integrante é
+realizada abaixo:
+
+* **Alex Rocha:**
+* **Cristian Marcelo Villegas Lobos:**
+* [**Eduardo Elias Ribeiro Junior**][eduardo]: Bacharel em Estatística pela
+  UFPR (2016), membro do Laboratório de Estatística e Geoinformação e
+  mestrando do programa de Estatística e Experimentação Agronômica da
+  ESALQ. Tem como linhas de pesquisa modelos de regressão para dados de
+  contagem e modelos lineares generalizados mistos.
+* **Gustavo Thomas:**
+* **Julio Cezar Souza Vasconcelos:**
+* **Natalie Veronika Rondinel Mendoza:**
+* **Ricardo Klein Sercundes:**
+
+<!--------------------------------------------- -->
+<!-- Links -->
+[eduardo]: https://jreduardo.github.io/about/

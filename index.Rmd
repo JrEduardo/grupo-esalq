@@ -1,4 +1,4 @@
-% Grupo de estudos em modelos de regressão flexíveis
+% Grupo de estudos em modelos flexíveis de regressão
 
 O grupo de estudos em modelos flexíveis de regressão ([GEMFR][gemfr]) é
 um grupo com interesse em modelos de regressão flexíveis tais como:
