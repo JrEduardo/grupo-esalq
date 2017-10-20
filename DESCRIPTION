@@ -1,0 +1,5 @@
+Package: GEMFR
+Title: Grupo de Estudos em Modelos Flexíveis de Regressão
+Version: 0.0.1
+Imports:
+  rmarkdown
