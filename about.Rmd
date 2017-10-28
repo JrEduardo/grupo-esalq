@@ -14,7 +14,7 @@ realizada abaixo:
   mestrando do programa de Estatística e Experimentação Agronômica da
   ESALQ. Tem como linhas de pesquisa modelos de regressão para dados de
   contagem e modelos lineares generalizados mistos.
-* **Gustavo Thomas:**
+* **Gustavo Thomas:** Bacharel em Estatística pela UFRGS (2015) e mestrando do programa de Estatística e Experimentação Agronômica da ESALQ\USP. Tem como linha de pesquisa modelos aditivos generalizados para locação, escala e forma.
 * **Julio Cezar Souza Vasconcelos:**
 * **Natalie Veronika Rondinel Mendoza:**
 * **Ricardo Klein Sercundes:**
