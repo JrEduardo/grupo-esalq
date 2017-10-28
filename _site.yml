@@ -11,6 +11,8 @@ output:
 navbar:
   title: ""
   right:
+    - text: Home
+      href: .
     - text: Programa
       href: program.html
     - text: Sobre
