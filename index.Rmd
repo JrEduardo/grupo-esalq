@@ -12,7 +12,7 @@ Escola Superior de Agricultura “Luiz de Queiroz” [ESALQ-USP][esalq].
 Nesse semestre (_fall 2017_) o grupo se reúne todas as sextas-feiras das
 14h00 às 16h00 na sala 311 do pavilhão de Engenharia da ESALQ para
 discutir tópicos definidos em reunião anterior. Em
-[Programa][./program.html] são registrados os históricos das reunião e o
+[Programa][program] são registrados os históricos das reunião e o
 planejamento das demais.
 
 O GEMFR têm como principais gerais:
@@ -105,3 +105,4 @@ cat(paste0(
 [esalq]: http://www.esalq.usp.br/
 [r]: https://www.r-project.org/
 [sas]: https://www.sas.com
+[program]: ./program.html
